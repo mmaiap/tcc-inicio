@@ -1,0 +1,1 @@
+{"tcc":{"name":"tcc","packages":{"com.unifacisa.tcc.colaborador":{"packageName":"com.unifacisa.tcc.colaborador","isAll":false,"classes":["Lcom.unifacisa.tcc.colaborador.Funcionario"]}}}}

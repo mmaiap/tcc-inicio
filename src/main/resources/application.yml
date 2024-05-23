@@ -1,0 +1,20 @@
+mail:
+  smtp:
+    auth: true
+    starttls: true
+    host: smtp.gmail.com
+    port: 587
+
+account:
+  email: seu_email@gmail.com
+  password: senha
+
+twilio:
+  id-conta: id
+  token: token
+  origem: 98908098
+
+database:
+  url: url
+  user: user
+  password: password
